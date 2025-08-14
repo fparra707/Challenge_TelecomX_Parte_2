@@ -60,11 +60,6 @@ Determinar las variables más relevantes que explican la cancelación de cliente
 - **Matplotlib**, **Seaborn**
 - **Google Colab**
 
-## 📌 Requisitos
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-
 ## 🚀 Ejecución
 
 - Abrir el archivo Challenge_TelecomX_LATAM_Parte_2.ipynb en Google Colab.
